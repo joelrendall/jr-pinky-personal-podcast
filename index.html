@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinky's Intelligence Briefs</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .episode { border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin: 20px 0; }
+        .episode-title { font-size: 1.2em; font-weight: bold; margin-bottom: 10px; }
+        .episode-meta { color: #666; font-size: 0.9em; margin-bottom: 15px; }
+        .episode-description { line-height: 1.6; }
+        .rss-link { background: #ff6b35; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        .cover-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0; }
+        .cover-item { text-align: center; }
+        .cover-item img { width: 100%; max-width: 200px; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🐭 Pinky's Intelligence Briefs</h1>
+        <p>AI-generated intelligence briefs with dramatic flair and practical insights</p>
+        <a href="feed.xml" class="rss-link">🎧 Subscribe to RSS Feed</a>
+    </div>
+    
+    <div class="cover-grid">
+        <div class="cover-item">
+            <img src="cover-art/openclaw-intelligence.png" alt="OpenClaw Intelligence">
+            <h3>OpenClaw Intelligence</h3>
+            <p>Community updates from X & Reddit</p>
+        </div>
+        <div class="cover-item">
+            <img src="cover-art/pp-company-brief.png" alt="PP Company Brief">
+            <h3>PP Company Brief</h3>
+            <p>Team activity from Slack & GitHub</p>
+        </div>
+        <div class="cover-item">
+            <img src="cover-art/competitive-analysis.png" alt="Competitive Analysis">
+            <h3>Competitive Analysis</h3>
+            <p>Market research & user insights</p>
+        </div>
+    </div>
+    
+    <div id="episodes">
+        <!-- Episodes will be dynamically populated -->
+    </div>
+    
+    <script>
+        // Auto-refresh episodes from RSS feed
+        // Future enhancement: Parse RSS and populate episodes div
+    </script>
+</body>
+</html>

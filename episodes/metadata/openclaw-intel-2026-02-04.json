@@ -1,0 +1,31 @@
+{
+  "id": "openclaw-intel-2026-02-04",
+  "title": "OpenClaw Intelligence Brief - February 4, 2026",
+  "description": "Major security developments: 341 malicious skills discovered in ClawHub marketplace, critical RCE vulnerability patched, and community response with enterprise-grade hardening guides. Plus advanced multi-agent orchestration techniques becoming standard practice.",
+  "pubDate": "2026-02-04T13:58:00Z",
+  "duration": "7:47",
+  "audioFile": "openclaw-intelligence-brief-2026-02-04.mp3",
+  "fileSize": 3634194,
+  "coverArt": "openclaw-intelligence.png",
+  "briefType": "OpenClaw Intelligence",
+  "voices": ["George", "James", "Lily", "Matilda", "Eric", "Sarah"],
+  "researchPeriod": {
+    "start": "2026-02-03T06:30:00Z",
+    "end": "2026-02-04T13:54:00Z",
+    "duration": "31+ hours"
+  },
+  "keyTopics": [
+    "ClawHub marketplace security",
+    "RCE vulnerability",
+    "Multi-agent orchestration",
+    "Community hardening guides",
+    "Docker containerization"
+  ],
+  "securityLevel": "critical",
+  "generationStats": {
+    "subAgentRuntime": "45s",
+    "totalTokens": "17.8k",
+    "audioGenerationTime": "~3 minutes",
+    "voiceApiCalls": 6
+  }
+}
