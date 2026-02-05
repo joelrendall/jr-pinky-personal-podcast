@@ -34,7 +34,7 @@
     </item>
 
     <item>
-      <title>Episode 10: Security Follow-up & Use Cases Guide</title>
+      <title>Episode 10: Security Follow-up &amp; Use Cases Guide</title>
       <description>Follow-up coverage of the 341 malicious skills story, IBM vertical integration analysis, Tenable CVE mitigations, and Hostinger's 25 practical use cases guide.</description>
       <pubDate>Thu, 05 Feb 2026 07:21:55 +0000</pubDate>
       <enclosure url="https://joelrendall.github.io/jr-pinky-personal-podcast/audio/openclaw-intel-2026-02-05.mp3" length="5573488" type="audio/mpeg"/>
@@ -61,6 +61,7 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+    <item>
       <title>OpenClaw Intelligence Brief - February 4, 2026 (Full)</title>
       <description>Comprehensive 7-voice intelligence brief covering security audit validation, unRAID adoption signals, community hardening guides, and practical applications for both business (N8N webhooks, hybrid Docker) and personal productivity (token budgets, multi-channel orchestration). Includes Marcus Aurelius opening quote and actionable weekly items.</description>
       <pubDate>Thu, 05 Feb 2026 07:21:55 +0000</pubDate>
