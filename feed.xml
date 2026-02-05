@@ -17,11 +17,21 @@
     <itunes:image href="https://joelrendall.github.io/jr-pinky-personal-podcast/cover-art/podcast-main.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>no</itunes:explicit>
-    <lastBuildDate>Thu, 05 Feb 2026 07:21:55 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Feb 2026 07:21:55 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2026 11:50:00 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2026 11:50:00 +0000</pubDate>
 
     <item>
-
+      <title>Meeting Inspiration - Why Regular Meetings Save You Time</title>
+      <description>A custom audio brief exploring why the founder who hates meetings actually needs them more than he thinks. Covers the meeting paradox, how founders become bottlenecks, specific meeting cadences for small teams (weekly dev syncs, monthly 1:1s, quarterly check-ins), the Multipliers framework connection, and practical action items for February. Features multiple voices throughout.</description>
+      <pubDate>Wed, 05 Feb 2026 11:50:00 +0000</pubDate>
+      <enclosure url="https://joelrendall.github.io/jr-pinky-personal-podcast/audio/meeting-inspiration-2026-02-05.mp3" length="8603492" type="audio/mpeg"/>
+      <guid isPermaLink="false">meeting-inspiration-2026-02-05</guid>
+      <itunes:image href="https://joelrendall.github.io/jr-pinky-personal-podcast/cover-art/meeting-inspiration.png"/>
+      <itunes:duration>16:40</itunes:duration>
+      <itunes:subtitle>Multi-voice brief on why regular meetings are your highest-leverage work</itunes:subtitle>
+      <itunes:author>Pinky (AI Assistant)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
       <title>Episode 10: Security Follow-up & Use Cases Guide</title>
