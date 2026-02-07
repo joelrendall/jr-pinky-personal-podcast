@@ -1,0 +1,54 @@
+{
+  "id": "openclaw-intel-2026-02-07",
+  "title": "OpenClaw Intelligence Brief - February 7, 2026",
+  "description": "Real use cases from the community: persistent assistants with deep context, growing skill ecosystem for automation, practical tips on cost management and security, and the emerging pattern of specialized agents beating generalist approaches. Based on Reddit discussions and recent articles covering what's actually working in production.",
+  "pubDate": "2026-02-07T08:00:00Z",
+  "duration": "6:00",
+  "audioFile": "openclaw-intelligence-brief-2026-02-07.mp3",
+  "fileSize": 3145728,
+  "coverArt": "openclaw-intelligence.png",
+  "briefType": "OpenClaw Intelligence",
+  "voices": ["George", "Lily"],
+  "researchPeriod": {
+    "start": "2026-02-05T06:00:00Z",
+    "end": "2026-02-07T08:00:00Z",
+    "duration": "48+ hours"
+  },
+  "keyTopics": [
+    "Persistent assistant with deep context",
+    "Skill ecosystem and integrations",
+    "Cost management strategies",
+    "Security best practices and isolation",
+    "Workflow specialization vs. generalization",
+    "Telegram integration standard",
+    "Real productivity gains (10-15 hours/week)",
+    "Community patterns and lessons learned"
+  ],
+  "securityLevel": "standard",
+  "sources": [
+    "Reddit r/AI_Agents",
+    "Reddit r/ThinkingDeeplyAI",
+    "Reddit r/ClaudeAI",
+    "The Guardian",
+    "Frontline/The Hindu",
+    "CNET",
+    "Medium"
+  ],
+  "generationStats": {
+    "subAgentRuntime": "~4 minutes",
+    "totalTokens": "~12k",
+    "audioGenerationTime": "~2 minutes",
+    "voiceApiCalls": 6,
+    "segmentsGenerated": 4
+  },
+  "audioBriefContent": {
+    "sections": [
+      "Opening Hook: 24/7 AI Employee Reality",
+      "Use Case Spotlight #1: Persistent Assistant with Deep Context",
+      "Use Case Spotlight #2: Growing Skill Ecosystem",
+      "Tips & Tricks: Cost, Security, Starting Small",
+      "Community Patterns: Telegram, Context, Specialization",
+      "Actionable Takeaway: What Winners Are Doing"
+    ]
+  }
+}
